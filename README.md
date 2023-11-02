@@ -37,13 +37,7 @@ Blog 4: [Blog 4] (https://medium.com/p/9e3d62e1c093/edit)
 
 Following this pipeline ensures that our application code is thoroughly tested, built into Docker images, and deployed with the updated manifest using the GitOps approach.
 
-**This blog contains Three GitHub repositories**
 
-➡️ [App Code] (https://github.com/chauhan-himani/AppCode)
-
-➡️ [Terraform code] (https://github.com/chauhan-himani/kube_terraform)
-
-➡️ [Manifest Repo] (https://github.com/chauhan-himani/kube_manifest)
 
 If you want to learn how I created this project, please review my blogs. I've shared links to all the blogs above.👆
 
